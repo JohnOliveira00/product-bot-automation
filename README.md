@@ -3,18 +3,18 @@ Este projeto é uma **automação de cadastro de produtos** desenvolvida 100% em
 
 O objetivo do projeto é simular e automatizar um processo que normalmente seria feito manualmente por um usuário, economizando tempo e reduzindo erros humanos.
 
----
 
-## 🚀 Tecnologias Utilizadas
+
+##  Tecnologias Utilizadas
 
 - **Python**
 - **PyAutoGUI** – Automação de interações com teclado e mouse
 - **Pandas** – Manipulação de dados e leitura de arquivos CSV
 - **CSV** – Fonte de dados dos produtos
 
----
 
-## 📦 Funcionalidades
+
+##  Funcionalidades
 
 - Leitura automática de produtos a partir de um arquivo CSV
 - Cadastro automatizado de produtos em um sistema web
@@ -29,9 +29,9 @@ O objetivo do projeto é simular e automatizar um processo que normalmente seria
 - Simulação fiel de ações humanas (cliques, digitação e navegação)
 - Estrutura reutilizável para outros projetos de automação
 
----
 
-## 📊 Estrutura do Projeto
+
+##  Estrutura do Projeto
 
 ```bash
 ├── codigo.py        # Script principal de automação
