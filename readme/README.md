@@ -6,7 +6,7 @@ O objetivo do projeto é simular e automatizar um processo que normalmente seria
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - **Python**
 - **PyAutoGUI** – Automação de interações com teclado e mouse
@@ -15,7 +15,7 @@ O objetivo do projeto é simular e automatizar um processo que normalmente seria
 
 ---
 
-## 📦 Funcionalidades
+##  Funcionalidades
 
 - Leitura automática de produtos a partir de um arquivo CSV
 - Cadastro automatizado de produtos em um sistema web
@@ -32,7 +32,11 @@ O objetivo do projeto é simular e automatizar um processo que normalmente seria
 
 ---
 
-## 📊 Estrutura do Projeto
+## 🎥 Demonstração
+
+[Assista ao vídeo](https://youtu.be/qGTbFXaZtsc)
+
+##  Estrutura do Projeto
 
 ```bash
 ├── codigo.py        # Script principal de automação
